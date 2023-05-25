@@ -1,5 +1,7 @@
 ## CrogmaSoft `BTDevs` 👋
 
+Here is a Notion for I4.0 projects: https://www.notion.so/Proyecto-Industria-4-0-1b77a416d1ff46f3a987478de3b4d061
+
 **This is a work-in-progress Organization:**
 
 - 🙋‍♀️ A short introduction - what is your organization all about?
